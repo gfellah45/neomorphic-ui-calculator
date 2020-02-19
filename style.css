@@ -67,7 +67,7 @@ button:active{
     box-shadow: var(--shadow-inset);
 }
 .op-keys, .eq-keys{
-    color: #ff652f;
+    color:  blue;
 }
 
 @media screen and (max-width: 600px){
